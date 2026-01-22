@@ -1,7 +1,6 @@
 # Laravel File Management API
 
 Technical test for the company Anchorless.
-A Laravel API for file upload, management, and deletion.
 
 ---
 
