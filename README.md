@@ -17,8 +17,8 @@ A Laravel API for file upload, management, and deletion.
 1. Clone the repository:
 
 ```bash
-git clone https://your-repo-url.git
-cd your-repo-folder
+git git@github.com:bode-locke/anchorless-api-test.git
+cd anchorless-api-test
 ```
 
 2. Copy the example environment file and customize it if needed:
